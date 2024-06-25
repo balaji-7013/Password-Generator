@@ -16,7 +16,7 @@ Installation
 Clone the repository:
 sh
 Copy code
-git clone https://github.com/balaji-7013/Password-Generator-gui.git
+git clone https://github.com/balaji-7013/Password-Generator.git
 Navigate to the project directory:
 sh
 Copy code
